@@ -1,2 +1,3 @@
 net.hwyz.iov.cloud.framework.redis.config.RedisConfig
+net.hwyz.iov.cloud.framework.redis.config.LoadBalancerCacheConfig
 net.hwyz.iov.cloud.framework.redis.service.RedisService
